@@ -5,26 +5,17 @@
 ## Build Setup
 
 ``` bash
+
+下载并安装node，6.0以上的版本
+
+#clone项目
+git clone https://github.com/LeonWuV/firstVue
+
+# 进入项目
+cd firstVue
+
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8180
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
